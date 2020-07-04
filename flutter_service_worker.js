@@ -10,9 +10,18 @@ const RESOURCES = {
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"assets/AssetManifest.json": "631c6cb33bcc94481872e087e2fa17d5",
+"assets/AssetManifest.json": "c57bc9b5002f3b20ac81ba4452b2b71c",
 "assets/FontManifest.json": "3889ca932736f12e3d21615c2eda7bc3",
+"assets/assets/images/google-play-badge.png": "468ef7f576ce6cfef78231938349ab0b",
 "assets/assets/images/bitsblockchain.jpg": "9e22d095c4026af6cca5c1a8a78009e7",
+"assets/assets/images/cooprata/cooprata4.png": "88d020316ccd7b37a4dbddf3f8c54dc7",
+"assets/assets/images/cooprata/cooprata2.png": "89c9ff032061c9561275029122947e8f",
+"assets/assets/images/cooprata/cooprata3.png": "a126cbd24b41e878ece8a144e963abed",
+"assets/assets/images/cooprata/cooprata1.png": "0a39f71f3a61364d023b9a931bd6d509",
+"assets/assets/images/bitsblockchain/bitsblockchain1.png": "834c31f010012b5c4951466e11653a61",
+"assets/assets/images/bitsblockchain/bitsblockchain3.png": "a397330ea639c22537992cbf97ef2d4f",
+"assets/assets/images/bitsblockchain/bitsblockchain2.png": "17de6c39ba5a319fe6a424b0ca438652",
+"assets/assets/images/bitsblockchain/bitsblockchain4.png": "dbc006acd1061d61bde496071dabcc7d",
 "assets/assets/images/twitter.png": "247d003f20654c85d3aaba07811e36ec",
 "assets/assets/images/linkedin.png": "30c453b7f5fbdb09ea0cb42a5dc7a6e5",
 "assets/assets/images/profile.jpeg": "b89c607a2c81091c3c8ab5b6f82b7fbd",
@@ -23,7 +32,7 @@ const RESOURCES = {
 "assets/assets/fonts/FiraCode-Regular.ttf": "d60b1090972c3e6230c555347da880db",
 "assets/NOTICES": "6e5aeb5ca720e6a2e298fe49508e8fb7",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"main.dart.js": "799edd6a383b073538469be949593d76"
+"main.dart.js": "f2d9bb0393e51da609ac89e27067540a"
 };
 
 // The application shell files that are downloaded before a service worker can
